@@ -65538,25 +65538,23 @@ A.FP.prototype={
 F(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=b.E(f).f.a.b,d=b.E(f).f.a.a
 f=d<740
 s=f?e*0.1:e*0.15
-r=-d
-r=f?r*0.2:r*0.1
-r=A.xr(s,A.GX(A.io("assets/my.png",g,e*0.75),0.9),g,g,g,r,g,g)
+s=A.xr(s,A.GX(A.io("assets/my.png",g,e*0.75),0.9),g,g,g,g,g,g)
 f=f?e*0.15:e*0.2
-s=e*0.03
+r=e*0.03
 q=t.t
-p=A.c4(A.b([A.bT("WELCOME TO MY PORTFOLIO! ",g,A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,s,g,B.b6,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.io("assets/hi.gif",g,e*0.05)],q),B.v,B.t,B.ah)
+p=A.c4(A.b([A.bT("WELCOME TO MY PORTFOLIO! ",g,A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,r,g,B.b6,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.io("assets/hi.gif",g,e*0.05)],q),B.v,B.t,B.ah)
 o=A.aQ(g,e*0.04,g)
 n=e*0.07
 m=A.bT("Fouad",g,A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,n,g,B.bI,g,g,!0,g,1.5,g,g,g,g,g,g),g,g)
 n=A.bT("Bahari",g,A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,n,g,B.am,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 l=A.kV(B.fw,B.O,g)
 k=A.aP(0,50,0)
-s=A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,s,g,B.bJ,g,g,!0,g,g,g,g,g,g,g,g)
-s=A.c4(A.b([l,A.a4V(!0,k,A.b([" Flutter Developer"," UI/UX Enthusiast"],t.i),s)],q),B.v,B.t,B.D)
+r=A.aZ(g,g,B.k,g,g,g,g,g,g,g,g,r,g,B.bJ,g,g,!0,g,g,g,g,g,g,g,g)
+r=A.c4(A.b([l,A.a4V(!0,k,A.b([" Flutter Developer"," UI/UX Enthusiast"],t.i),r)],q),B.v,B.t,B.D)
 k=A.aQ(g,e*0.045,g)
 l=A.b([],q)
 for(j=e*0.035,i=d*0.01,h=0;h<4;++h)l.push(new A.r4(B.fL[h],B.fM[h],j,i,g))
-return A.aR(g,A.fZ(B.aG,A.b([r,A.aR(g,A.cX(A.b([p,o,m,n,s,k,A.c4(l,B.v,B.t,B.ah)],q),B.b5,B.t,B.D),B.l,g,g,g,g,g,new A.at(d*0.1,f,0,0),g,g,g,g)],q),B.b2),B.l,B.w,g,g,g,e,g,g,g,g,d)}}
+return A.aR(g,A.fZ(B.aG,A.b([s,A.aR(g,A.cX(A.b([p,o,m,n,r,k,A.c4(l,B.v,B.t,B.ah)],q),B.b5,B.t,B.D),B.l,g,g,g,g,g,new A.at(d*0.1,f,0,0),g,g,g,g)],q),B.b2),B.l,B.w,g,g,g,e,g,g,g,g,d)}}
 A.wn.prototype={
 ah(){return new A.Aq(A.IA(),A.b(["HOME","ABOUT","SERVICES","PROJECTS","CONTACT"],t.i),A.b([B.mD,B.zO,B.zR,B.zL,B.zJ,B.mE],t.bY),B.o)}}
 A.Aq.prototype={
