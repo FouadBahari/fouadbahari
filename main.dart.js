@@ -73182,14 +73182,16 @@ $.auM=!1
 $.H=null
 $.ala=1
 $.ane=null
-$.ae6=A.b(["Flutter","Dart","Firebase","Nodejs"],t.i)
+$.ae6=A.b(["Flutter","Dart","Firebase","Laravel"],t.i)
 $.ahb=A.b(["assets/app.png","assets/ui.png","assets/rapid.png"],t.i)
 $.ahc=A.b(["Full App Development","UI/UX Designing","Rapid Prototyping"],t.i)
 $.aha=A.b(["Mobile app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!","Modern UI/UX Designing\n- Figma\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"],t.i)
-$.amL=A.b(["assets/breezy.png","assets/bigtwo.png","assets/music.png","assets/fastfood.png","assets/grocery.png"],t.i)
-$.amN=A.b(["https://play.google.com/store/apps/details?id=com.obtulus.breezymood","https://play.google.com/store/apps/details?id=com.raniaoustani.bigtwo","https://drive.google.com/file/d/1Yu8oy7eVQeFg2FnVBC52I7JzsZumEQV-/view?usp=sharing","https://drive.google.com/file/d/1Zxo-z6vWZDESVAJgMYh30vMkdjy6d4U6/view?usp=sharing","https://drive.google.com/file/d/1RJqNQrDg5cV8B5m2BxCYXAJFHk9i-b05/view?usp=sharing"],t.i)
-$.amO=A.b(["Breezy Mood: Food delivery","Big Two: Food delivery","Grocery App with admin panel","Music App","Food App UI"],t.i)
-$.amM=A.b(["Android app development via Flutter\n- Home Screen/Product Overview Screen/ with laravel backend Api/ and Firebase Otp auth\n- Already published on Play Store","Android app development via Flutter\n- with firebase and provider\n- Already published on Play Store","Android app development via Flutter\n- with firebase and provider","Android app development via Flutter\n- Welcome Screen/Music Player Screen","Android app development via Flutter"],t.i)
+$.amL=function(){var s="assets/grocery.png"
+return A.b(["assets/breezy.png","assets/bigtwo.png",s,"assets/music.png","assets/fastfood.png",s],t.i)}()
+$.amN=A.b(["https://play.google.com/store/apps/details?id=com.obtulus.breezymood","https://play.google.com/store/apps/details?id=com.raniaoustani.bigtwo","https://drive.google.com/file/d/1Yu8oy7eVQeFg2FnVBC52I7JzsZumEQV-/view?usp=sharing","https://drive.google.com/file/d/1RJqNQrDg5cV8B5m2BxCYXAJFHk9i-b05/view?usp=sharing","https://drive.google.com/file/d/1Zxo-z6vWZDESVAJgMYh30vMkdjy6d4U6/view?usp=sharing"],t.i)
+$.amO=A.b(["Breezy Mood: Food delivery","Big Two: Food delivery","Grocery App with admin panel","Food App","Music App"],t.i)
+$.amM=function(){var s="Android app development via Flutter\n- with firebase and provider"
+return A.b(["Android app development via Flutter\n- Home Screen/Product Overview Screen/ with laravel backend Api/ and Firebase Otp auth\n- Already published on Play Store","Android app development via Flutter\n- with firebase and provider\n- Already published on Play Store",s,s,"Android app development via Flutter\n- Welcome Screen/Music Player Screen"],t.i)}()
 $.amJ=A.b(["","https://wa.link/03qlwd","mailto:fouadbahari18@gmail.com?subject=Greetings&body=Hello%20World"],t.i)
 $.amI=A.b([B.mR,B.mS,B.B_],t.bY)
 $.amK=A.b(["Location","Phone","Email"],t.i)
