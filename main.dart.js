@@ -9644,9 +9644,11 @@ _.c=0},
 asb(){return new A.va(new A.Z0(),A.A(t.K,t.Qu))},
 Js:function Js(a,b){this.a=a
 this.b=b},
-vZ:function vZ(a,b,c){this.e=a
-this.p2=b
-this.a=c},
+vZ:function vZ(a,b,c,d){var _=this
+_.e=a
+_.CW=b
+_.p2=c
+_.a=d},
 Z0:function Z0(){},
 Z3:function Z3(){},
 zL:function zL(a){var _=this
@@ -39573,11 +39575,11 @@ if(l==null)l=o.ay.b
 k.a.toString
 s=b==null?B.ds:b
 return new A.xA(A.afa(new A.tw(o,s,B.a6,B.a7,j,j),l,n),j)},
-Sd(a){var s,r=this,q=null,p=r.a
-p=p.e
+Sd(a){var s,r=this,q=null,p=r.a,o=p.e
+p=p.CW
 s=r.gXL()
 r.a.toString
-return new A.yM(q,q,q,new A.a9L(),q,q,q,q,q,p,B.F7,q,q,B.CS,r.gXQ(),"",q,B.IX,B.d8,q,s,q,q,B.n5,!1,!1,!1,!1,r.gXt(),!1,q,q,q,!1,new A.kU(r,t.bT))},
+return new A.yM(q,q,q,new A.a9L(),q,q,q,q,q,o,B.F7,q,q,B.CS,r.gXQ(),p,q,B.IX,B.d8,q,s,q,q,B.n5,!1,!1,!1,!1,r.gXt(),!1,q,q,q,!1,new A.kU(r,t.bT))},
 G(a){var s,r=null,q=A.F7(!1,!1,this.Sd(a),r,r,r,r,!0,r,r,new A.a9M(),r,r)
 this.a.toString
 s=this.d
@@ -67429,7 +67431,7 @@ ab(){return new A.MB(B.m)}}
 A.MB.prototype={
 G(a){var s=null,r=A.ji(10),q=A.ig("assets/splash.png",s,300),p=A.aW(s,s,20),o=A.aR(0,50,0),n=A.b3(s,s,B.h,s,s,s,s,s,s,s,s,20,s,s,B.bJ,s,s,!0,s,s,s,s,s,s,s,s)
 r=A.aY(s,A.cb(A.b([q,p,A.a6x(!0,o,A.b([" Fouad Bahari"," Flutter Developer"],t.i),n)],t.t),B.y,B.bu,B.C),B.j,s,s,new A.c1(B.E,s,s,r,s,s,B.T),s,s,s,s,s,s,s)
-return new A.vZ(new A.tu(B.FR,B.Hx,s,s,B.z,new A.vU(s),B.OD,!0,!1,r,2500,B.zN,s,s,s),!1,s)}}
+return new A.vZ(new A.tu(B.FR,B.Hx,s,s,B.z,new A.vU(s),B.OD,!0,!1,r,2500,B.zN,s,s,s),"Portfolio",!1,s)}}
 A.Cd.prototype={
 G(a){return A.Ia(new A.Ce(null),new A.Cf(null),new A.Cg(null))}}
 A.Ce.prototype={
