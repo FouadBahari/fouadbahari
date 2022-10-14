@@ -73190,8 +73190,7 @@ $.amL=function(){var s="assets/grocery.png"
 return A.b(["assets/breezy.png","assets/bigtwo.png",s,"assets/music.png","assets/fastfood.png",s],t.i)}()
 $.amN=A.b(["https://play.google.com/store/apps/details?id=com.obtulus.breezymood","https://play.google.com/store/apps/details?id=com.raniaoustani.bigtwo","https://drive.google.com/file/d/1Yu8oy7eVQeFg2FnVBC52I7JzsZumEQV-/view?usp=sharing","https://drive.google.com/file/d/1RJqNQrDg5cV8B5m2BxCYXAJFHk9i-b05/view?usp=sharing","https://drive.google.com/file/d/1Zxo-z6vWZDESVAJgMYh30vMkdjy6d4U6/view?usp=sharing"],t.i)
 $.amO=A.b(["Breezy Mood: Food delivery","Big Two: Food delivery","Grocery App with admin panel","Food App","Music App"],t.i)
-$.amM=function(){var s="Android app development via Flutter\n- with firebase and provider"
-return A.b(["Android app development via Flutter\n- Home Screen/Product Overview Screen/ with laravel backend Api/ and Firebase Otp auth\n- Already published on Play Store","Android app development via Flutter\n- with firebase and provider\n- Already published on Play Store",s,s,"Android app development via Flutter\n- Welcome Screen/Music Player Screen"],t.i)}()
+$.amM=A.b(["Mobile app development via Flutter\n- Home Screen/Product Overview Screen/ with laravel backend Api/ and Firebase Otp auth\n- Already published on Play Store","Mobile app development via Flutter\n- with firebase and provider\n- Already published on Play Store","Mobile app development via Flutter\n- with firebase and provider","Mobile app development via Flutter\n- with Laravel","Mobile app development via Flutter\n- Welcome Screen/Music Player Screen"],t.i)
 $.amJ=A.b(["","https://wa.link/03qlwd","mailto:fouadbahari18@gmail.com?subject=Greetings&body=Hello%20World"],t.i)
 $.amI=A.b([B.mR,B.mS,B.B_],t.bY)
 $.amK=A.b(["Location","Phone","Email"],t.i)
